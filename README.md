@@ -1,2 +1,2 @@
-# Calculadora-de-partidas-rankeadas
-Prohjeto de calculadora de partidas rankeadas pelo curso Lógica de Programação.
+## Calculadora-de-partidas-rankeadas
+Projeto de calculadora de partidas rankeadas pelo curso Lógica de Programação.
